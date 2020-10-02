@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from pymemcache.client import base
 import time
 
